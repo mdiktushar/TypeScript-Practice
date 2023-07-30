@@ -1,4 +1,19 @@
-# My Practice on Typescript
+# Installation
+- # Global #
+```
+* npm i -g typescript
+```
+- * Go to project folder and run:
+```
+* npm init -y
+```
+
+- # Local #
+- Open Project and Run the commands:
+```
+* npm init -y
+* npm i --save-dev typescript
+```
 
 # TypeScript Documentation
 
