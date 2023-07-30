@@ -259,9 +259,10 @@ let userName = "anis"; // data type inferred as string
   ```js
   // let users = ["anis", "rabu", "pinky"];
 
-  // let users: string[];
-  // users = ["anis", "rabu", "pinky"];
-
+  // 1st way
+  let users: string[];
+  users = ["anis", "rabu", "pinky"];
+  // 2nd way
   let users: Array<string>;
   users = ["anis", "rabu", "pinky"];
 
