@@ -3,7 +3,7 @@
 ```
 * npm i -g typescript
 ```
-- * Go to project folder and run:
+- Go to project folder and run:
 ```
 * npm init -y
 ```
@@ -12,7 +12,15 @@
 - Open Project and Run the commands:
 ```
 * npm init -y
-* npm i --save-dev typescript
+* npm install typescript --save-dev
+* npx tsc --init
+* npx tsc --version
+
+// To Run file
+* npx tsc
+
+// auto compile
+* npx tsc --watch
 ```
 
 # TypeScript Documentation
